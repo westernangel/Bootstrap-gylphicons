@@ -1,0 +1,12 @@
+p {
+    letter-spacing: 0.2em;
+}
+body{
+    padding-top: 70px; 
+}
+.jumbotron{
+    color: #2c3e50;
+}
+.navbar-inverse {
+    color: #2370bd;
+}
